@@ -1,0 +1,11 @@
+#content {
+    text-align: center;
+}
+.remove-this{
+margin-left: 10px;
+color: red;
+font-weight: bold;
+}
+.remove-this:hover {
+    color: black;
+}
